@@ -1,1 +1,1 @@
-# dailyStockReturns
+# StockReturns
